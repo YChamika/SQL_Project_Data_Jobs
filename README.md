@@ -1,7 +1,7 @@
 # Introduction
-### 📊 SQL Project: Data Analyst Job Market Insights
+###  SQL Project: Data Analyst Job Market Insights
 
-#### 🎯 Project Overview
+####  Project Overview
 This project explores the **Data Analyst job market** using SQL queries to uncover insights about job demand, salaries, and in-demand skills.  
 Using multiple datasets, I analyzed trends to answer five key questions:
 
@@ -19,7 +19,7 @@ here: [project SQL folder](/project_sql/)
 
 
 
-## 🛠️ Tools I Used
+##  Tools I Used
 
 For my deep dive into the Data Analyst job market,  
 I harnessed the power of several key tools:
@@ -33,11 +33,11 @@ I harnessed the power of several key tools:
 
 
 
-### 🧩 Query 1: Top-Paying Data Analyst Jobs
+###  Query 1: Top-Paying Data Analyst Jobs
 
 
 **Goal:** Identify the highest-paying Data Analyst positions.
-#### 📜 SQL Query
+####  SQL Query
 
 
 ```sql
@@ -70,17 +70,17 @@ LIMIT 10
 | Uclahealthcareers | Data Analyst (Hybrid/Remote) | $217,000 | Full-time |
 
 **Insights:**
-- 💰 **Mantys** offers the **highest-paying** data analyst position at $650K annually.  
+-  **Mantys** offers the **highest-paying** data analyst position at $650K annually.  
 - Big tech companies like **Meta** and **AT&T** are among the top payers.  
 - Most top-paying positions are **remote (Anywhere)** and **full-time**, showing strong global demand.  
 - Leadership-focused analyst roles (like “Director” or “Principal Data Analyst”) consistently command higher salaries.
 
 ---
 
-## 🧠 Query 2: Skills Required for Top-Paying Roles
+##  Query 2: Skills Required for Top-Paying Roles
 
 **Goal:** Identify which technical skills appear in the highest-paying jobs.
-#### 📜 SQL Query
+####  SQL Query
 
 
 ```sql
@@ -119,15 +119,15 @@ ORDER BY
 - **Collaboration Tools:** GitLab, Jira, Confluence
 
 **Insights:**
-> 🔍 High-paying data analyst roles require not only core analytics skills but also **cloud and big data ecosystem knowledge**.  
+>  High-paying data analyst roles require not only core analytics skills but also **cloud and big data ecosystem knowledge**.  
 > These skills separate **senior analysts** from **entry-level analysts**.
 
 ---
 
-## 📈 Query 3: Most In-Demand Skills for Data Analysts
+##  Query 3: Most In-Demand Skills for Data Analysts
 
 **Goal:** Rank skills by their frequency across job postings.
-#### 📜 SQL Query
+####  SQL Query
 
 
 ```sql
@@ -158,20 +158,20 @@ LIMIT 5
 | Power BI | 2,609 |
 
 **Insights:**
-- 🥇 **SQL** dominates as the most in-demand skill — foundational for almost all analyst roles.  
-- 🧮 **Excel** remains crucial, showing its ongoing importance in business analytics.  
-- 🐍 **Python** ranks third, showing its growth in automation and modeling.  
-- 📊 **Tableau** and **Power BI** are the leading visualization tools.
+-  **SQL** dominates as the most in-demand skill — foundational for almost all analyst roles.  
+-  **Excel** remains crucial, showing its ongoing importance in business analytics.  
+-  **Python** ranks third, showing its growth in automation and modeling.  
+-  **Tableau** and **Power BI** are the leading visualization tools.
 
 **Conclusion:**
 > Demand favors versatile analysts who master **SQL + Excel + Python + Visualization tools**.
 
 ---
 
-## 💸 Query 4: Skills Associated with Higher Salaries
+##  Query 4: Skills Associated with Higher Salaries
 
 **Goal:** Find which skills are associated with higher average salaries.
-#### 📜 SQL Query
+####  SQL Query
 
 
 ```sql
@@ -203,16 +203,16 @@ LIMIT 25
 | Databricks | $141,907 |
 
 **Insights:**
-- 🔥 **Big Data & Engineering skills** (Pyspark, Databricks) are linked to the **highest pay**.  
-- 💻 **Version control tools** (Bitbucket, GitLab) appear in senior data roles.  
-- 🧠 **ML/AI-related tools** (Watson, Pandas, Scikit-learn) are associated with higher salaries.
+-  **Big Data & Engineering skills** (Pyspark, Databricks) are linked to the **highest pay**.  
+-  **Version control tools** (Bitbucket, GitLab) appear in senior data roles.  
+-  **ML/AI-related tools** (Watson, Pandas, Scikit-learn) are associated with higher salaries.
 
 **Conclusion:**
 > The top-paying skills lean toward **data engineering and machine learning ecosystems**, showing how analysis is merging with data science.
 
 ---
 
-## 🚀 Query 5: Optimal Skills to Learn
+##  Query 5: Optimal Skills to Learn
 
 **Goal:** Combine **skill demand** and **average salary** to find the most valuable skills.
 
@@ -228,17 +228,17 @@ LIMIT 25
 | Go | 27 | $115,320 |
 
 **Insights:**
-- 🧠 **Python** offers both **high demand** and **high salary** — a must-learn skill.  
-- ☁️ **Cloud platforms (AWS, Azure, Snowflake)** show strong earning potential.  
-- 📈 **Visualization tools (Tableau, Looker)** are key for data storytelling.  
-- 💎 **Go (Golang)** provides high salary but low demand — good for niche specialization.
+-  **Python** offers both **high demand** and **high salary** — a must-learn skill.  
+-  **Cloud platforms (AWS, Azure, Snowflake)** show strong earning potential.  
+-  **Visualization tools (Tableau, Looker)** are key for data storytelling.  
+-  **Go (Golang)** provides high salary but low demand — good for niche specialization.
 
 **Conclusion:**
 > For the best career ROI, focus on **SQL, Python, Tableau, Power BI, and a cloud platform (AWS/Azure/Snowflake)**.
 
 ---
 
-## 🧾 Overall Summary
+##  Overall Summary
 
 | Focus Area | Key Finding |
 |-------------|-------------|
@@ -250,7 +250,7 @@ LIMIT 25
 
 ---
 
-## 🧠 Final Thoughts
+##  Final Thoughts
 
 This SQL-based project provides a **data-driven roadmap** for aspiring data analysts:
 
@@ -265,11 +265,4 @@ This SQL-based project provides a **data-driven roadmap** for aspiring data anal
 
 
 
----
 
-### 🏁 Author
-**Yasiru Chamika**  
-*Business & Data Analyst Enthusiast*  
-📍 [GitHub Profile](https://github.com/YChamika)
-
----
